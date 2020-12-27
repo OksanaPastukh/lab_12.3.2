@@ -1,0 +1,3 @@
+﻿  UnitTest12.3.2.cpp
+C:\Users\ksush\source\repos\Project12.3.2\Project12.3.2\project12.3.2.cpp(85,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  UnitTest12.3.2.vcxproj -> C:\Users\ksush\source\repos\Project12.3.2\Debug\UnitTest12.3.2.dll
